@@ -1,3 +1,6 @@
+##    LINK  ----->    https://pytorch.org/tutorials/beginner/blitz/tensor_tutorial.html
+## TENSORS
+
 import torch
 import numpy as np
 
